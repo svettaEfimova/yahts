@@ -1,0 +1,39 @@
+[
+    {
+        "id":0,
+        "title": "First Yaht",
+        "deskription": "Скорость короблей 15,5 км/ час. Длина 77см,  Ширина 37см,  Высота 23см.",
+        "image":
+        "https://sun3-10.userapi.com/0-K9O6b1sPqYzqY2U3fRNtlOGII7yEnaEODXEg/ScjprNWUJdY.jpg",
+        "price": 31000,
+        "raiting": 5
+    },
+    {
+        "id":0,
+        "title": "First Yaht",
+        "deskription": "Скорость короблей 15,5 км/ час. Длина 77см,  Ширина 37см,  Высота 23см.",
+        "des": " Длина 77см,  Ширина 37см,  Высота 23см.",
+        "image":
+        "https://sun3-11.userapi.com/Hvnih7eh2nf6w7bqJgHhNmSIfODMInnt5ySY3A/rI4iyP8ah5g.jpg",
+        "price": 31000,
+        "raiting": 5
+    },
+    {
+        "id":0,
+        "title": "First Yaht",
+        "deskription": "Скорость короблей 15,5 км/ час. Длина 77см  Ширина 37см  Высота 23см.",
+        "image":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiS_aZSA7bli4A-JQ-l1NIZkfwZazvcqR80yGR2IwFg2N_Vwmi&usqp=CAU",
+        "price": 31000,
+        "raiting": 5
+    },
+    {
+        "id":0,
+        "title": "First Yaht",
+        "deskription": "Скорость короблей 15,5 км/ час. Длина 77см,  Ширина 37см,  Высота 23см.",
+        "image":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiS_aZSA7bli4A-JQ-l1NIZkfwZazvcqR80yGR2IwFg2N_Vwmi&usqp=CAU",
+        "price": 31000,
+        "raiting": 5
+    }
+]
